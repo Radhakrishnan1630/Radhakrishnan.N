@@ -1,0 +1,54 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#header{
+	background-color:black;
+	height:100px;
+	width:100%;
+}
+#container{ 
+	background-color:pink;
+	height:520px;
+	width:100%;
+}
+#footer{
+	background-color:black;
+	height:42px;
+	width:100%;
+}
+#header  p{
+	text-align:center;
+	color:lightblue;
+	padding:50px; 
+	font-family:Matura MT Script Capitals;
+	font-size: 20px;
+	transition:transform 3s;
+}
+#container h3{
+	text-align:center;
+	color:black;
+	font-family:Snap ITC;
+	padding-top:20px;
+}
+#container form{
+	text-align:center;
+	color:black;
+	font-family:Snap ITC;
+	}
+#footer h2{
+		color:lightblue;
+		font-family:Snap ITC;
+		text-align:center;
+
+	}
+	#container h3 img{
+		background-color:pink;
+	}
+
+
+
+
+
+
+
