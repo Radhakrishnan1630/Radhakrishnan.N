@@ -1,0 +1,46 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+h1{
+	color:lightgray;
+	text-align:center;
+	padding-top:5px;
+	font-size:130px;
+}
+body{
+background-image:url("u.gif");
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+form{
+	padding-left:20%;	
+}
+img{
+	padding-left:35%;
+	padding-top:0px;
+	width:30%;
+	height:30%;
+}
+#search{
+	width:80%;
+	height:6%;
+	padding-left:10px;
+	background-color:lightgray;
+	border:1px solid lightgray;
+
+}
+#submit{
+	background-color:gray;
+	border-radius:3px;
+	width:10%;
+	height:6%;
+}
+#submit:hover{
+background-color:hotpink;
+}
+h2{
+	font-family:Blackadder ITC;
+	color:pink;
+	font-size:30px;
+}
